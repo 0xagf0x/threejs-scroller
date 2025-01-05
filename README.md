@@ -2,7 +2,7 @@
 
 A **3D Scroller** application built with [Three.js](https://threejs.org/), [React](https://react.dev/), and [Vite](https://vitejs.dev/). This project demonstrates a seamless scrolling experience with interactive 3D animations.
 
-![Demo](./demo.png)
+![Demo](./public/assets/demo.png)
 
 ---
 
@@ -16,8 +16,7 @@ A **3D Scroller** application built with [Three.js](https://threejs.org/), [Reac
 ---
 
 ## Installation
-
-1. **Clone the Repository**:
+1. 
    ```bash
    npm i
    npm run dev
