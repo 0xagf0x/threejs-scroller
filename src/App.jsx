@@ -66,7 +66,7 @@ function App() {
         <div className="content-fit">
           <div className="number">02</div>
           <div className="des">
-            <div className="title">LUNDEV</div>
+            <div className="title">Keep Going!</div>
             <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit.
               Voluptatibus voluptas a porro libero recusandae quae, aut ratione,
